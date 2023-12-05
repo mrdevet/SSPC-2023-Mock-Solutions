@@ -17,8 +17,8 @@ public class A {
             }
 
             // Print the last digit of N!
-            int last_digit = factorial % 10;
-            System.out.println(last_digit);
+            int lastDigit = factorial % 10;
+            System.out.println(lastDigit);
         }
     }
 }
